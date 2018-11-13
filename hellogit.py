@@ -22,3 +22,5 @@ print("nothing to think about")
 print("new master")
 
 print("make yellow!")
+
+print("multi-res")
