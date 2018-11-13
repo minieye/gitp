@@ -17,3 +17,5 @@ print("color adjust red")
 print("deving 2.0")
 
 print("nothing to think about")
+
+print("new master")
