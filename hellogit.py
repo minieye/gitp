@@ -26,5 +26,7 @@ print("make yellow!")
 print("multi-res")
 print("iap")
 
+print("mobile1")
+
 print("master1")
 print("master2")
