@@ -21,7 +21,7 @@ print("nothing to think about")
 
 print("new master")
 
-print("make yellow!")
+print("make any color pick!")
 
 print("multi-res")
 print("iap")
@@ -32,3 +32,6 @@ print("master1")
 print("master2")
 
 print("team work started!")
+
+
+
