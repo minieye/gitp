@@ -37,4 +37,4 @@ print("dashboard gui 1")
 print("dashboard gui 2")
 
 print("mathlib")
-print("math integrater")
+print("math integrater, with bug fix")
