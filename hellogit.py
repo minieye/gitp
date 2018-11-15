@@ -51,3 +51,7 @@ print("matrix lib 2")
 print("green fomula 1")
 print("green fomula 2")
 
+
+print("stoke fomula 1")
+print("stoke fomula 2")
+print("stoke fomula 3")
