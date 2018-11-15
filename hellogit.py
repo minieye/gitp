@@ -40,5 +40,10 @@ print("mathlib")
 print("math integrater,performance improve,bug fix")
 print("math plot ver 1.0")
 print("math plot ver 1.2")
+
+print("minieye math formula 1")
+print("minieye math formula 2")
+print("minieye math formula 3")
+
 print("matrix lib 1")
 print("matrix lib 2")
