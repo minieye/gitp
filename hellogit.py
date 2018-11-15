@@ -55,3 +55,6 @@ print("green fomula 2")
 print("stoke fomula 1")
 print("stoke fomula 2")
 print("stoke fomula 3")
+
+print("quick stoke fomula")
+print("complex stoke fomula")
