@@ -38,3 +38,4 @@ print("dashboard gui 2")
 
 print("mathlib")
 print("math integrater,performance improve,bug fix")
+print("math plot ver 1.0")
